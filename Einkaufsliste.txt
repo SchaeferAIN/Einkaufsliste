@@ -1,0 +1,7 @@
+Brot
+Milch
+Zucker
+Eier
+Mehl
+Wurst
+Käse
