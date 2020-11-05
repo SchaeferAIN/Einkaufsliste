@@ -1,4 +1,6 @@
-# Lebenslauf von Dominik Schäfer
+# Lebenslauf von Dominik Schäfer 
+
+![Bild von Dominink Schäfer](Lebenslaufbild.jpg "Lebenslaufbild.jpg")
 
 ## Persönliche Daten
 
